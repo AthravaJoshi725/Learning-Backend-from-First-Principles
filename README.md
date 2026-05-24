@@ -6,22 +6,6 @@ This repository is a personal learning project: each document breaks down one id
 
 ---
 
-## Inspiration & credit
-
-These notes were created while following the excellent YouTube playlist **[Backend from first principles](https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)** by **[Sriniously](https://www.youtube.com/@Sriniously)**.
-
-The playlist walks through HTTP, routing, middleware, databases, security, DevOps, and more — all from the ground up. If you want the full video journey, start there:
-
-**[Watch the playlist on YouTube →](https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)**
-
-[![Backend from first principles — YouTube playlist by Sriniously](./ytChannelSS.png)](https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)
-
-> *Screenshot of the playlist — click the image to open it on YouTube.*
-
-**Thank you, Sriniously**, for making backend engineering approachable and teaching it from first principles. This repo exists because of that work; all credit for the curriculum and teaching belongs to the channel.
-
----
-
 ## Start here
 
 | Topic | Document |
@@ -35,6 +19,22 @@ That first write-up follows the path of a single request: from typing a URL in t
 ## What this repo will grow into
 
 Over time, this repository will add more notes aligned with the playlist roadmap — for example HTTP in depth, handlers, middleware, databases, caching, auth, and operations. Each file should stay readable on its own, like a short chapter.
+
+---
+
+## Inspiration & credit
+
+These notes were created while following the excellent YouTube playlist **[Backend from first principles](https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)** by **[Sriniously](https://www.youtube.com/@Sriniously)**.
+
+The playlist walks through HTTP, routing, middleware, databases, security, DevOps, and more — all from the ground up. If you want the full video journey, start there:
+
+**[Watch the playlist on YouTube →](https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)**
+
+[![Backend from first principles — YouTube playlist by Sriniously](./ytChannelSS.png)](https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)
+
+> *Screenshot of the playlist — click the image to open it on YouTube.*
+
+**Thank you, Sriniously**, for making backend engineering approachable and teaching it from first principles. This repo exists because of that work; all credit for the curriculum and teaching belongs to the channel.
 
 ---
 
