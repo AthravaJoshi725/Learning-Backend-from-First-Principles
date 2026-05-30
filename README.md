@@ -8,11 +8,13 @@ This repository is a personal learning project: each document breaks down one id
 
 ## Start here
 
-| Topic | Document |
-|-------|----------|
-| **What happens when you visit a website?** (DNS → TCP → firewall → TLS → reverse proxy → backend → response) | [**Request to Response**](./RequestToResponse.md) |
+### [Request to Response](./RequestToResponse.md)
 
-That first write-up follows the path of a single request: from typing a URL in the browser to seeing the page come back. It is a good entry point before diving into HTTP, APIs, and application code.
+What happens when you visit a website: DNS, TCP, firewall, TLS, reverse proxy, backend, and response.
+
+### [HTTP Fundamentals](./http-fundamentals.md)
+
+How HTTP lets clients and servers communicate through requests, responses, headers, methods, and status codes.
 
 ---
 
@@ -29,10 +31,6 @@ These notes were created while following the excellent YouTube playlist **[Backe
 The playlist walks through HTTP, routing, middleware, databases, security, DevOps, and more — all from the ground up. If you want the full video journey, start there:
 
 **[Watch the playlist on YouTube →](https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)**
-
-[![Backend from first principles — YouTube playlist by Sriniously](./ytChannelSS.png)](https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)
-
-> *Screenshot of the playlist — click the image to open it on YouTube.*
 
 **Thank you, Sriniously**, for making backend engineering approachable and teaching it from first principles. This repo exists because of that work; all credit for the curriculum and teaching belongs to the channel.
 
